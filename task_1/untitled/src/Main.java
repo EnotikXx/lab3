@@ -1,5 +1,5 @@
-public class 1 {
-    public static void 1(String[] args) {
+public class Main {
+    public static void main(String[] args) {
         byte n = 30;
 
         byte start = 40;
